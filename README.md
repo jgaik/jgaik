@@ -1,9 +1,9 @@
 ### Hi there, I'm Jakub 👋
 
-I am passionate about programming with the purpose of problem solving and everyday life improvement. I like to learn any new material, especially if I can  put it into pracitce myself. I always try to find the most elegant way, both, aesthetically and in terms of the final performance.
+I am passionate about programming with the purpose of problem solving and everyday life improvement. I like to learn any new material and put it into pracitce. I always try to find the most elegant way, both, aesthetically and in terms of the final performance.
 <br/>
 <br/>
-I am a student at Warsaw University of Technology in Poland. I am currently working towards the Master's degree in Robotics major. The topic of [my thesis](/swarm) is related to the field of swarm robotics.
+I am a student at Warsaw University of Technology in Poland. I am currently working towards the Master's degree in Robotics major. The topic of [my thesis][swarm] is related to the field of swarm robotics.
 <br/>
 I am currently working as a Quality Assurence tester at [Lionbridge](https://www.lionbridge.com/) in Warsaw where I live.
 
@@ -16,7 +16,7 @@ I am currently working as a Quality Assurence tester at [Lionbridge](https://www
 
 ### Current goals:
 
--   Finish [thesis](/swarm) and get a Master's degree in Robotics at Warsaw University of Technology
+-   Finish [thesis][swarm] and get a Master's degree in Robotics at Warsaw University of Technology
 -   Find a job in Robotics or Programming (currently with Python and C++)
 -   Improve my knowledge about React and HTML+CSS
 -   Organize [GitHub repositories][repos] READMEs
@@ -54,3 +54,4 @@ ___Whatever You do, do it with all Your heart___
 [gmail]: mailto:jakub.gaik@gmail.com
 [facebook]: https://facebook.com/jakub.gaik
 [repos]: https://github.com/jgaik?tab=repositories
+[swarm]: https://github.com/jgaik/swarm

@@ -1,7 +1,7 @@
 ### Hi there 👋
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> jakub_gaik][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />#jakub_gaik][twitter]
 </br>
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> jgaik][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />#jgaik][linkedin]
 <!--
 **jgaik/jgaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

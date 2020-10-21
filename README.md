@@ -4,10 +4,10 @@
 
 ### Contact info:
 
-+   [<img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />jakub.gaik@gmail.com][gmail]
-+   [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />jgaik][linkedin]
-+   [<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />jakub.gaik][facebook]
-+   [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />jakub_gaik][twitter]
++   [<img align="left" alt="Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />jakub.gaik@gmail.com][gmail]
++   [<img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />jgaik][linkedin]
++   [<img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />jakub.gaik][facebook]
++   [<img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />jakub_gaik][twitter]
 
 
 ### Motto:

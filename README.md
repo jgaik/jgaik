@@ -1,8 +1,8 @@
 ### Hi there, I'm Jakub 👋
 
-# I am passionate about programming with the purpose of problem solving and everyday life improvement. I like to learn any new material, especially if I can put instantly put it into pracitce myself. I always try to find the most elegant way, both, aesthetically and in terms of the final performence.
-# I am a student at Warsaw University of Technology in Poland. I am currently working towards the Master's degree in Robotics major. The topic of [my thesis](/swarm) is related to the field of swarm robotics.
-# I am currently working as a Quality Assurence tester at [Lionbridge](https://www.lionbridge.com/) in Warsaw where I live.
+I am passionate about programming with the purpose of problem solving and everyday life improvement. I like to learn any new material, especially if I can put instantly put it into pracitce myself. I always try to find the most elegant way, both, aesthetically and in terms of the final performence.
+I am a student at Warsaw University of Technology in Poland. I am currently working towards the Master's degree in Robotics major. The topic of [my thesis](/swarm) is related to the field of swarm robotics.
+I am currently working as a Quality Assurence tester at [Lionbridge](https://www.lionbridge.com/) in Warsaw where I live.
 
 ### Contact info:
 

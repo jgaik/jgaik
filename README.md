@@ -1,6 +1,8 @@
 ### Hi there, I'm Jakub 👋
 
-## I'm a student
+# I am passionate about programming with the purpose of problem solving and everyday life improvement. I like to learn any new material, especially if I can put instantly put it into pracitce myself. I always try to find the most elegant way, both, aesthetically and in terms of the final performence.
+# I am a student at Warsaw University of Technology in Poland. I am currently working towards the Master's degree in Robotics major. The topic of [my thesis](/swarm) is related to the field of swarm robotics.
+# I am currently working as a Quality Assurence tester at [Lionbridge](https://www.lionbridge.com/) in Warsaw where I live.
 
 ### Contact info:
 
@@ -9,6 +11,12 @@
 +   [<img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />jakub.gaik][facebook]
 +   [<img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />jakub_gaik][twitter]
 
+### Current goals:
+
+-   Finish [thesis](/swarm) and get a Master's degree in Robotics at Warsaw University of Technology
+-   Find a job in Robotics or Programming (currently with Python and C++)
+-   Improve my knowledge about React and HTML+CSS
+-   Organize [GitHub repositories][repos] READMEs
 
 ### Motto:
 ___Whatever You do, do it with all Your heart___
@@ -34,7 +42,7 @@ ___Whatever You do, do it with all Your heart___
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgaik&show_icons=true&locale=en&layout=compact" alt="jgaik" />](https://github.com/jgaik?tab=repositories)
+  [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgaik&show_icons=true&locale=en&layout=compact" alt="jgaik" />][repos]
 
 </details>
 
@@ -42,3 +50,4 @@ ___Whatever You do, do it with all Your heart___
 [linkedin]: https://linkedin.com/in/jgaik
 [gmail]: mailto:jakub.gaik@gmail.com
 [facebook]: https://facebook.com/jakub.gaik
+[repos]: https://github.com/jgaik?tab=repositories

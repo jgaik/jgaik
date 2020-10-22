@@ -6,7 +6,7 @@ I am passionate about programming with the purpose of problem solving and everyd
 I am a student at Warsaw University of Technology in Poland. I am currently working towards the Master's degree in Robotics major.\
 The topic of [my thesis][swarm] is related to the field of swarm robotics.
 <br/>
-I am currently working as a Quality Assurence tester at [Lionbridge](https://www.lionbridge.com/) in Warsaw where I live.
+I am currently working as a Quality Assurance tester at [Lionbridge](https://www.lionbridge.com/) in Warsaw where I live.
 
 ### Contact info:
 

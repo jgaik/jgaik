@@ -6,7 +6,7 @@ I am passionate about programming with the purpose of problem solving and everyd
 I am a student at Warsaw University of Technology in Poland. I am currently working towards the Master's degree in Robotics major.\
 The topic of [my thesis][swarm] is related to the field of swarm robotics.
 <br/>
-I am currently working as a Software Engineer, Associate at [MicroStrategy](https://www.microstrategy.com/pl/) in Warsaw where I live.
+I am currently working as a Software Engineer, Principal at [MicroStrategy](https://www.microstrategy.com/pl/) in Warsaw where I live.
 
 ### Contact info:
 
@@ -17,9 +17,6 @@ I am currently working as a Software Engineer, Associate at [MicroStrategy](http
 
 ### Current goals:
 
--   Finish [thesis][swarm] and get a Master's degree in Robotics at Warsaw University of Technology
--   Find a job in Robotics or Programming (currently with Python and C++)
--   Improve my knowledge about React and HTML+CSS
 -   Organize [GitHub repositories][repos] READMEs
 
 ### Motto:

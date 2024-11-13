@@ -29,8 +29,8 @@
 ### 2.1. MicroStrategy Incorporated
 
 - Role: **Software Engineer Principal**, Technical lead
-- Responsibilities included development team management, features implementation and code review
-- Additionally - implementation and maintenance of internal company-wide component library including customized **AgGrid** component
+- Main responsibilities: management of the development team, features implementation and code review
+- Additional responsibilities: implementation and maintenance of internal component library used across multiple company products including customized **AgGrid** component
 - Daily team and cross-team collaboration with UX designers, Product Managers, Product Owners, Developers, et al. 
 - Mostly working with front-end technologies - **React**, **Typescript**, **HTML/CSS**
 - Minor back-end tasks in **Java** and **C++** codebase
@@ -67,6 +67,7 @@
 | Acquisition date | License/certificate                                                                                                                                     |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |      3/2024      | [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/MAL5ECLJHU88?trk=public_profile_certification-title) |
+|      1/2024      | [Advanced React For Enterprise: React for senior engineers](https://www.udemy.com/certificate/UC-5cee430b-fa79-4daa-a4bc-6ea121c1b956/)                 |
 |     12/2022      | [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/17d70dce-4bef-4398-b25f-c48aa93d4426/public_url)                            |
 |      6/2022      | [LFS250: Kubernetes and Cloud Native Essentials](https://www.credly.com/badges/2b372dde-d7b2-4b51-a594-2e7a5716473d/public_url)                         |
 |      9/2021      | [[CPA-21-02] CPA – C++ Certified Associate Programmer](https://www.credly.com/badges/27fd5c78-4aed-431f-aabe-e768b66af033/public_url)                   |

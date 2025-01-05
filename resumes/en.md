@@ -15,9 +15,9 @@
 | --------------- | -------------------- |
 | **Name**        | Gaik Jakub           |
 | **Birthday**    | 27/09/1995           |
-| **Gender**      | male                 |
-| **Nationality** | Poland               |
 | **E-mail**      | jakub.gaik@gmail.com |
+| **Address**     | Warsaw, Poland       |
+| **Nationality** | Poland               |
 
 ## 2. Work history
 
